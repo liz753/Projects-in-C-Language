@@ -6,4 +6,4 @@ This is a library of my 42-projects and personal projects in c-language.
 
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?&theme=calm&align="middle"" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?&theme=calm&align=center" alt="Jokes Card" />
